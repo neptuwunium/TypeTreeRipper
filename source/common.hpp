@@ -114,7 +114,8 @@ inline std::string_view VariantToString(const Variant variant)
     X(2022, 2, 0) \
     X(2022, 3, 0) \
     X(2023, 1, 0) \
-    X(6000, 5, 0)
+    X(6000, 5, 0) \
+    X(6000, 6, 0)
 
 enum class Revision
 {
